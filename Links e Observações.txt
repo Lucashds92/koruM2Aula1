@@ -1,0 +1,17 @@
+Browsers mais utilizados:
+https://www.w3counter.com/globalstats.php
+
+Primeiro site do mundo:
+http://info.cern.ch/hypertext/WWW/TheProject.html
+
+Zen Garden - interfaces programadas só com css e html
+www.csszengarden.com
+
+Designs criados com Javascript:
+http://histography.io/
+https://www.sbs.com.au/theboat/
+
+Editores online
+https://codepen.io/
+https://jsfiddle.net/
+https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello
